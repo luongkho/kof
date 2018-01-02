@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'kof.apps.KofConfig'
 ]
 
 MIDDLEWARE = [
@@ -75,8 +76,14 @@ WSGI_APPLICATION = 'kofProject.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'kof',
+        'USER': 'brid',
+        'PASSWORD': 'brid',
+        'HOST': '192.168.77.10',
+        'OPTIONS': {
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
+        }
     }
 }
 
