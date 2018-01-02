@@ -1,0 +1,34 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Orochi",
+      "quality": 14,
+      "type": 2
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Rugal Bernstein",
+      "quality": 14,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Omega Rugal",
+      "quality": 15,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Goenitz Leopold",
+      "quality": 14,
+      "type": 3
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Ryuji Yamazaki",
+      "quality": 13,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Mary Blue",
+      "quality": 13,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Billy Kane",
+      "quality": 13,
+      "type": 1
+    }
+  }
+]

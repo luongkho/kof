@@ -1,0 +1,16 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Bao",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Nakoruru",
+      "quality": 13
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Geese Howard",
+      "quality": 14,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Krauser Wolfgang",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Mr. Big",
+      "quality": 13,
+      "type": 3
+    }
+  }
+]

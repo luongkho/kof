@@ -1,0 +1,30 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Terry Bogard",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Terry 2003",
+      "quality": 14
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Andy Bogard",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Joe Higashi",
+      "quality": 12
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Leona",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Orochi Leona",
+      "quality": 14
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Ralf Jones",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Clark Still",
+      "quality": 13
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Heidern",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Takuma Sakazaki",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Saisyu Kusanagi",
+      "quality": 13
+    }
+  }
+]

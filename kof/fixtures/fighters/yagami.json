@@ -1,0 +1,30 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Iori Yagami",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Orochi Iori",
+      "quality": 14
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Mature",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Vice",
+      "quality": 12
+    }
+  }
+]

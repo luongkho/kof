@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Heavy D!",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Lucky Glauber",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Brian Battler",
+      "quality": 12
+    }
+  }
+]

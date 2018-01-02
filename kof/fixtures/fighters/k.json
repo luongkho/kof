@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "K'",
+      "quality": 14
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Maxima",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Whip",
+      "quality": 13
+    }
+  }
+]

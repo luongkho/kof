@@ -1,0 +1,9 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Ash Crimson",
+      "quality": 15
+    }
+  }
+]

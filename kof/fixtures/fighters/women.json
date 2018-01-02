@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Chizuru Kagura",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Mai Shiranui",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "King",
+      "quality": 12
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Ryo Sakazaki",
+      "quality": 12,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Mr. Karate II",
+      "quality": 14,
+      "type": 1
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Robert Garcia",
+      "quality": 13,
+      "type": 3
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Robert 2002 um",
+      "quality": 14,
+      "type": 3
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Yuri Sakazaki",
+      "quality": 11,
+      "type": 3
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Athena Asamiya",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Sie Kensou",
+      "quality": 12
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Chin Gentsai",
+      "quality": 13
+    }
+  }
+]

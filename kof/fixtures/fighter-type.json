@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.FighterType",
+    "pk": 1,
+    "fields": {
+      "name": "Vệ"
+    }
+  },
+  {
+    "model": "kof.FighterType",
+    "pk": 2,
+    "fields": {
+      "name": "Kĩ"
+    }
+  },
+  {
+    "model": "kof.FighterType",
+    "pk": 3,
+    "fields": {
+      "name": "Đả"
+    }
+  }
+]

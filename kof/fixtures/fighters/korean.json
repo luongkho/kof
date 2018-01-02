@@ -1,0 +1,23 @@
+[
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Kim Kaphwan",
+      "quality": 11
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Chang Koehan",
+      "quality": 13
+    }
+  },
+  {
+    "model": "kof.Fighter",
+    "fields": {
+      "name": "Choi Bounge",
+      "quality": 13
+    }
+  }
+]
