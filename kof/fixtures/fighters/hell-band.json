@@ -1,44 +1,56 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 26,
     "fields": {
       "name": "Chris",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 27,
     "fields": {
       "name": "Yashiro Nanakase",
-      "quality": 12
+      "quality": 12,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 28,
     "fields": {
       "name": "Shermie",
-      "quality": 12
+      "quality": 12,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 29,
     "fields": {
       "name": "Orochi Chris",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 30,
     "fields": {
       "name": "Orochi Yashiro",
-      "quality": 13
+      "quality": 13,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 31,
     "fields": {
       "name": "Orochi Shermie",
-      "quality": 13
+      "quality": 13,
+      "type": 2
     }
   }
 ]

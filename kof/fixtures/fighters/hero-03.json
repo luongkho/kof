@@ -1,9 +1,11 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 32,
     "fields": {
       "name": "Ash Crimson",
-      "quality": 15
+      "quality": 15,
+      "type": 3
     }
   }
 ]

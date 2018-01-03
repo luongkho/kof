@@ -3,7 +3,7 @@ from django.db import models
 
 # Create your models here.
 class FighterType(models.Model):
-    name = models.CharField(max_length=10)  # Defend / Offend / Skill
+    name = models.CharField(max_length=50)  # Defend / Offend / Skill
 
 
 class Fighter(models.Model):
@@ -22,8 +22,7 @@ class Skill(models.Model):
     name = models.CharField(max_length=20)
     type = models.ForeignKey(SkillType)
     explain = models.TextField()
-    pros = models.BooleanField()
 
 
-class Tag(models.Model):
-    name = models.CharField(max_length=100)
+# class SkillTag(models.Model):
+#     name = models.CharField(max_length=100)

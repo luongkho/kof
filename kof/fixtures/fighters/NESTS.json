@@ -1,44 +1,56 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 48,
     "fields": {
       "name": "Kula Diamond",
-      "quality": 14
+      "quality": 14,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 49,
     "fields": {
       "name": "Foxy",
-      "quality": 13
+      "quality": 13,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 50,
     "fields": {
       "name": "Angel",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 51,
     "fields": {
       "name": "Igniz",
-      "quality": 14
+      "quality": 14,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 52,
     "fields": {
       "name": "Zero",
-      "quality": 14
+      "quality": 14,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 53,
     "fields": {
       "name": "Krizalid",
-      "quality": 14
+      "quality": 14,
+      "type": 3
     }
   }
 ]

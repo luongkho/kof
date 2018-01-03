@@ -1,6 +1,7 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 1,
     "fields": {
       "name": "Ryuji Yamazaki",
       "quality": 13,
@@ -9,6 +10,7 @@
   },
   {
     "model": "kof.Fighter",
+    "pk": 2,
     "fields": {
       "name": "Mary Blue",
       "quality": 13,
@@ -17,6 +19,7 @@
   },
   {
     "model": "kof.Fighter",
+    "pk": 3,
     "fields": {
       "name": "Billy Kane",
       "quality": 13,

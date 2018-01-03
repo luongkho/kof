@@ -1,6 +1,7 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 9,
     "fields": {
       "name": "Orochi",
       "quality": 14,
@@ -9,6 +10,7 @@
   },
   {
     "model": "kof.Fighter",
+    "pk": 10,
     "fields": {
       "name": "Rugal Bernstein",
       "quality": 14,
@@ -17,6 +19,7 @@
   },
   {
     "model": "kof.Fighter",
+    "pk": 11,
     "fields": {
       "name": "Omega Rugal",
       "quality": 15,
@@ -25,6 +28,7 @@
   },
   {
     "model": "kof.Fighter",
+    "pk": 12,
     "fields": {
       "name": "Goenitz Leopold",
       "quality": 14,

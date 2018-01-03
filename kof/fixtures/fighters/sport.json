@@ -1,23 +1,29 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 59,
     "fields": {
       "name": "Heavy D!",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 60,
     "fields": {
       "name": "Lucky Glauber",
-      "quality": 12
+      "quality": 12,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 61,
     "fields": {
       "name": "Brian Battler",
-      "quality": 12
+      "quality": 12,
+      "type": 1
     }
   }
 ]

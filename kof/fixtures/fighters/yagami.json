@@ -1,30 +1,38 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 65,
     "fields": {
       "name": "Iori Yagami",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 66,
     "fields": {
       "name": "Orochi Iori",
-      "quality": 14
+      "quality": 14,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 67,
     "fields": {
       "name": "Mature",
-      "quality": 12
+      "quality": 12,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 68,
     "fields": {
       "name": "Vice",
-      "quality": 12
+      "quality": 12,
+      "type": 3
     }
   }
 ]

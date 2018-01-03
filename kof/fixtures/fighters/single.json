@@ -1,16 +1,20 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 57,
     "fields": {
       "name": "Bao",
-      "quality": 13
+      "quality": 13,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 58,
     "fields": {
       "name": "Nakoruru",
-      "quality": 13
+      "quality": 13,
+      "type": 2
     }
   }
 ]

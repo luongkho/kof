@@ -1,23 +1,29 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 45,
     "fields": {
       "name": "Kim Kaphwan",
-      "quality": 11
+      "quality": 11,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 46,
     "fields": {
       "name": "Chang Koehan",
-      "quality": 13
+      "quality": 13,
+      "type": 1
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 47,
     "fields": {
       "name": "Choi Bounge",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   }
 ]

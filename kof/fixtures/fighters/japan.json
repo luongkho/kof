@@ -1,37 +1,47 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 37,
     "fields": {
       "name": "Kyo Kusanagi",
-      "quality": 13
+      "quality": 13,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 38,
     "fields": {
       "name": "Kyo NEST",
-      "quality": 14
+      "quality": 14,
+      "type": 3
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 39,
     "fields": {
       "name": "Benimaru Nikaido",
-      "quality": 12
+      "quality": 12,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 40,
     "fields": {
       "name": "Benimaru 2003",
-      "quality": 14
+      "quality": 14,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 41,
     "fields": {
       "name": "Daimon Goro",
-      "quality": 12
+      "quality": 12,
+      "type": 1
     }
   }
 ]

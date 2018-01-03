@@ -1,23 +1,29 @@
 [
   {
     "model": "kof.Fighter",
+    "pk": 54,
     "fields": {
       "name": "Athena Asamiya",
-      "quality": 12
+      "quality": 12,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 55,
     "fields": {
       "name": "Sie Kensou",
-      "quality": 12
+      "quality": 12,
+      "type": 2
     }
   },
   {
     "model": "kof.Fighter",
+    "pk": 56,
     "fields": {
       "name": "Chin Gentsai",
-      "quality": 13
+      "quality": 13,
+      "type": 2
     }
   }
 ]
