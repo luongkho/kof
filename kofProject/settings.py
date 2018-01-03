@@ -77,12 +77,13 @@ WSGI_APPLICATION = 'kofProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kof',
-        'USER': 'brid',
-        'PASSWORD': 'brid',
-        'HOST': '192.168.77.10',
+        'NAME': 'db_name',
+        'USER': 'db_user',
+        'PASSWORD': 'db_pass',
+        'HOST': 'host_name',
         'OPTIONS': {
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+            'charset': 'utf8mb4'
         }
     }
 }
